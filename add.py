@@ -7,4 +7,4 @@ add(4,5)
 
 print("Hello")
 
-print("hello")
+add(5,5)
